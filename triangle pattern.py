@@ -1,4 +1,4 @@
-rows = 6
+rows = 10
 for i in range(1, rows):
     num = 1
     for j in range(rows, 0, -1):
@@ -7,4 +7,4 @@ for i in range(1, rows):
         else:
             print(num, end=' ')
             num += 1
-    print("")
+    print(" ")
