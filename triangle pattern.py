@@ -1,4 +1,4 @@
-rows = 10
+rows = 20
 for i in range(1, rows):
     num = 1
     for j in range(rows, 0, -1):
